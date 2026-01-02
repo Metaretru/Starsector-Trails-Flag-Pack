@@ -1,0 +1,71 @@
+{
+	"id":"player",
+
+	"flags":[
+		{
+			"logo":"graphics/trails/factions/custom/arteria_flag.png",
+			"crest":"graphics/trails/factions/custom/arteria_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/calvard_flag.png",
+			"crest":"graphics/trails/factions/custom/calvard_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/crossbell_flag.png",
+			"crest":"graphics/trails/factions/custom/crossbell_crest.png"
+		}, 
+		{
+			"logo":"graphics/trails/factions/custom/elsaim_flag.png",
+			"crest":"graphics/trails/factions/custom/elsaim_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/erebonia_flag.png",
+			"crest":"graphics/trails/factions/custom/erebonia_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/ikaruga_flag.png",
+			"crest":"graphics/trails/factions/custom/ikaruga_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/kruga_flag.png",
+			"crest":"graphics/trails/factions/custom/kruga_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/liberl_flag.png",
+			"crest":"graphics/trails/factions/custom/liberl_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/nidhoggr_flag.png",
+			"crest":"graphics/trails/factions/custom/nidhoggr_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/northern jaeger_flag.png",
+			"crest":"graphics/trails/factions/custom/northern jaeger_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/ouroboros_flag.png",
+			"crest":"graphics/trails/factions/custom/ouroboros_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/red constellation_flag.png",
+			"crest":"graphics/trails/factions/custom/red constellation_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/remiferia_flag.png",
+			"crest":"graphics/trails/factions/custom/remiferia_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/zephyr_flag.png",
+			"crest":"graphics/trails/factions/custom/zephyr_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/bracer_flag.png",
+			"crest":"graphics/trails/factions/custom/bracer_crest.png"
+		},
+		{
+			"logo":"graphics/trails/factions/custom/north ambria_flag.png",
+			"crest":"graphics/trails/factions/custom/north ambria_crest.png"
+		
+		},
+	],
+}
